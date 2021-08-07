@@ -1,0 +1,47 @@
+.centered {
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+/*  background-color: white;
+*/}
+#ktoe_guy {
+  position: fixed;
+  top: 20%;
+  left: 20%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+/*  display: none; 
+*/  z-index: 1;
+  transition: 0.3s;
+}
+.sparkles {
+    display: none; 
+    z-index: 1;
+}
+.logo {
+  padding-bottom: -27px;
+  margin-bottom:  -27px;
+}
+
+#links {
+  padding-top: -27px;
+  margin-top:  -27px;
+}
+
+p {
+  font-size: 22px;
+  margin-bottom:  -10px;
+}
+
+body
+{
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+a {
+  color :black;
+  text-decoration: none;
+}
+
+a:hover { color: blue; text-decoration: underline;}
