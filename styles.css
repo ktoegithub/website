@@ -6,6 +6,14 @@
   transform: translate(-50%, -50%);
 /*  background-color: white;
 */}
+.footer {
+  position: fixed;
+  top: 93%;
+  left: 50%;
+  width:  400px;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
 #ktoe_guy {
   position: fixed;
   top: 20%;
